@@ -9,9 +9,8 @@ I began my journey with JavaScript, but now I'm deeply immersed in the world of 
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [MyPortfolio](http://rahmanonline.in)
 * ✉️  You can contact me at [obaidurrahman031@gmail.com](mailto:obaidurrahman031@gmail.com)
-* 🧠  I'm learning Flutter for cross-platform app development and diving into desktop development using C# and WPF.
+* 🧠  I'm currently learning Flutter for cross-platform app development
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I’m striving to balance my eagerness to learn a variety of things without letting it become overwhelming.
 
 ### Skills
 
